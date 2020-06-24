@@ -4,7 +4,7 @@
   "description:" "Xanathar Spells!!"
   "version": "1.0",
   "minimumCoreVersion": "0.4.4",
-  "compatibleCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.6.4",
   "author": "RC",
   "manifest": "https://raw.githubusercontent.com/Zaraen/XanatharRC/master/XanatharSpells/XanatharSpells.json",
   "systems": ["dnd5e"],
@@ -15,7 +15,7 @@
       "name": "xanatharspells",
       "label": "Xanathar Spells",
       "system": "dnd5e",
-      "path": "./packs/XGtESpells.db",
+      "path": "packs/XGtESpells.db",
       "entity": "Item"
     }
   ]
