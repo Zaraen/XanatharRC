@@ -1,10 +1,14 @@
 {
-   "name": "xanathar",
+  "name": "XanatharSpells",
   "title": "Xanathar Spells Compendium",
-  "version": "0.22",
+  "description:" "Xanathar Spells!!"
+  "version": "1.0",
+  "minimumCoreVersion": "0.4.4",
+  "compatibleCoreVersion": "0.6.0",
   "author": "RC",
   "manifest": "https://raw.githubusercontent.com/Zaraen/XanatharRC/master/XanatharSpells/XanatharSpells.json",
   "systems": ["dnd5e"],
+  "scripts": [],
   "styles": [],
   "packs": [
     {
