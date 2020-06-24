@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "name": "xanatharspells",
+      "label": "Xanathar Spells",
+      "system": "dnd5e",
+      "path": "./packs/XGtESpells.db",
+      "entity": "Item"
+    }
+  ]
+
+}
