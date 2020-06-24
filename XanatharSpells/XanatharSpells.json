@@ -1,4 +1,11 @@
 {
+   "name": "xanathar",
+  "title": "Xanathar Spells Compendium",
+  "version": "0.22",
+  "author": "RC",
+  "manifest": "https://raw.githubusercontent.com/Zaraen/XanatharRC/master/XanatharSpells/XanatharSpells.json",
+  "systems": ["dnd5e"],
+  "styles": [],
   "packs": [
     {
       "name": "xanatharspells",
